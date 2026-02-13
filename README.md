@@ -1,4 +1,4 @@
-# CMPUT 301 : Lab 6 - Firestore
+# CMPUT 301 : Lab 6
 
 ## Student Details
 
