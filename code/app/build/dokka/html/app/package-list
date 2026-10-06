@@ -1,0 +1,24 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.lab_6.ui.theme////PointingToDeclaration/app/com.example.lab_6.ui.theme/index.html
+$dokka.location:com.example.lab_6.ui.theme//Lab6Theme/#kotlin.Boolean#kotlin.Boolean#kotlin.Function0[kotlin.Unit]/PointingToDeclaration/app/com.example.lab_6.ui.theme/-lab6-theme.html
+$dokka.location:com.example.lab_6.ui.theme//Pink40/#/PointingToDeclaration/app/com.example.lab_6.ui.theme/-pink40.html
+$dokka.location:com.example.lab_6.ui.theme//Pink80/#/PointingToDeclaration/app/com.example.lab_6.ui.theme/-pink80.html
+$dokka.location:com.example.lab_6.ui.theme//Purple40/#/PointingToDeclaration/app/com.example.lab_6.ui.theme/-purple40.html
+$dokka.location:com.example.lab_6.ui.theme//Purple80/#/PointingToDeclaration/app/com.example.lab_6.ui.theme/-purple80.html
+$dokka.location:com.example.lab_6.ui.theme//PurpleGrey40/#/PointingToDeclaration/app/com.example.lab_6.ui.theme/-purple-grey40.html
+$dokka.location:com.example.lab_6.ui.theme//PurpleGrey80/#/PointingToDeclaration/app/com.example.lab_6.ui.theme/-purple-grey80.html
+$dokka.location:com.example.lab_6.ui.theme//Typography/#/PointingToDeclaration/app/com.example.lab_6.ui.theme/-typography.html
+$dokka.location:com.example.lab_6////PointingToDeclaration/app/com.example.lab_6/index.html
+$dokka.location:com.example.lab_6//Greeting/#kotlin.String#androidx.compose.ui.Modifier/PointingToDeclaration/app/com.example.lab_6/-greeting.html
+$dokka.location:com.example.lab_6//GreetingPreview/#/PointingToDeclaration/app/com.example.lab_6/-greeting-preview.html
+$dokka.location:com.example.lab_6/MainActivity///PointingToDeclaration/app/com.example.lab_6/-main-activity/index.html
+$dokka.location:com.example.lab_6/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.lab_6/-main-activity/-main-activity.html
+$dokka.location:com.example.lab_6/Wizard///PointingToDeclaration/app/com.example.lab_6/-wizard/index.html
+$dokka.location:com.example.lab_6/Wizard/Wizard/#kotlin.String#kotlin.Int#kotlin.Int/PointingToDeclaration/app/com.example.lab_6/-wizard/-wizard.html
+$dokka.location:com.example.lab_6/Wizard/castSpell/#kotlin.String/PointingToDeclaration/app/com.example.lab_6/-wizard/cast-spell.html
+$dokka.location:com.example.lab_6/Wizard/mana/#/PointingToDeclaration/app/com.example.lab_6/-wizard/mana.html
+$dokka.location:com.example.lab_6/Wizard/name/#/PointingToDeclaration/app/com.example.lab_6/-wizard/name.html
+$dokka.location:com.example.lab_6/Wizard/spellPower/#/PointingToDeclaration/app/com.example.lab_6/-wizard/spell-power.html
+com.example.lab_6
+com.example.lab_6.ui.theme
