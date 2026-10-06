@@ -8,9 +8,9 @@ package com.example.lab_6
  * is used to calculate how much damage is dealt when a valid
  * spell is cast.
  *
- *  * @property name the name of the wizard
- *  * @property mana the current mana available for casting spells
- *  * @property spellPower the base power used for spell damage calculation
+ * @property name the name of the wizard
+ * @property mana the current mana available for casting spells
+ * @property spellPower the base power used for spell damage calculation
  */
 class Wizard (val name:String,
               var mana:Int,
